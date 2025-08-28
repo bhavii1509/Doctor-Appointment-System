@@ -55,11 +55,7 @@
   - **Personalization**: Tailored experience based on user preferences.
 - Footer section with additional links.
 
-## 📞 Contact Page
 
-- Contains **office address** and contact details.
-- Section to explore job opportunities.
-- Footer navigation links.
 
 ## 📅 Doctor Appointment Page
 
